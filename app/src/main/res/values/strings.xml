@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flower Recognition</string>
+    <string name="SashiDo_server_url">https://pg-app-akiyrirvwr65bcq1rkjezefueggss8.scalabl.cloud/1/</string>
+    <string name="SashiDo_app_id">NjcMMj1ehw7OAI3PB8swGxg5R3BgaPFdMQNcMFIl</string>
+    <string name="SashiDo_client_key">SYLCvUbbUObeZNFlaCTWCymeQMR3INcaMTBOSFjl</string>
+</resources>
